@@ -1,5 +1,5 @@
 import salva from "../../../../../Descargas/IMG_1822.jpg";
-import heroinferior from "../../../../../Descargas/CV-SalvadorCahuana.pdf";
+
 
 export default function AboutMe () {
   return(
