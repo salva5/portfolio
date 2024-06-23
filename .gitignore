@@ -11,9 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-src/assets/img-projects
-src/assets/CV-SalvadorCahuana.pdf
-src/assets/yo.jpg
+
 package-lock.json
 .eslintrc.cjs
 
