@@ -1,5 +1,5 @@
-import salva from "../../../../../Descargas/IMG_1822.jpg";
-
+import salva from "../assets/yo.jpg";
+import heroinferior from "../assets/CV-SalvadorCahuana.pdf";
 
 export default function AboutMe () {
   return(
