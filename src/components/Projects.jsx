@@ -116,38 +116,6 @@ export default function Projects () {
                 </div>
               </div>
             </div>
-            <div className="col-12 col-md-6 col-lg-4">
-              <div className="proyecto">
-                <img src={nextLevel} alt="imagen de proyecto nonflix" />
-                <div className="overlay">
-                  <p>Proyecto 3</p>
-                  <div className="iconos-contenedor">
-                    <a href="https://github.com/salva5/Batalla-de-Mokepones" target="_blank" rel="noopener noreferrer">
-                      <i class="bi bi-github"></i>
-                    </a>
-                    <a href="" target="_blank" rel="noopener noreferrer">
-                      <i class="bi bi-laptop"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-12 col-md-6 col-lg-4">
-              <div className="proyecto">
-                <img src={nextLevel} alt="imagen de proyecto nonflix" />
-                <div className="overlay">
-                  <p>Proyecto 3</p>
-                  <div className="iconos-contenedor">
-                    <a href="https://github.com/salva5/Batalla-de-Mokepones" target="_blank" rel="noopener noreferrer">
-                      <i class="bi bi-github"></i>
-                    </a>
-                    <a href="" target="_blank" rel="noopener noreferrer">
-                      <i class="bi bi-laptop"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
           {/* <button>ver más</button> */}
         </div>
