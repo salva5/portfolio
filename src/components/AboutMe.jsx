@@ -16,7 +16,7 @@ export default function AboutMe () {
             <h6><span class="badge color-badge">Disponible para trabajar</span></h6>
           </a>
           <div className="enlaces-contact">
-            <a href= "../../pdf.html" target="_blank">
+            <a href= "/CV" target="_blank">
               <i class="bi bi-file-earmark-fill"></i>
               Descargar CV
             </a>
