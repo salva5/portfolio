@@ -13,10 +13,10 @@ export default function AboutMe () {
         
           <a href="https://www.linkedin.com/in/salvador-cahuana-bba962164/" target="_blank">
               <h6><span class="badge color-badge">Disponible para trabajar</span></h6>
-            </a>
+          </a>
           <div className="enlaces-contact">
-            <a href="https://portfolio-h54lqc4qr-salvadors-projects-7b4c0e2a.vercel.app/CV" target="_blank">
-            <i class="bi bi-file-earmark-fill"></i>
+            <a href="CV" target="_blank">
+              <i class="bi bi-file-earmark-fill"></i>
               Descargar CV
             </a>
             <a href="https://www.linkedin.com/in/salvador-cahuana-bba962164/" target="_blank">
