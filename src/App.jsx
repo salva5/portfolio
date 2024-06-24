@@ -1,7 +1,8 @@
 import "./App.css";
 
 import Pages from "./components/Pages";
-import Pdf from "./components/Pdf";
+import Pdf from "./components/Pdf"
+
 import { Routes, Route } from "react-router-dom";
 
 function App() {
