@@ -2,6 +2,7 @@ import salva from "../assets/yo.jpg";
 
 
 export default function AboutMe () {
+  
   return(
     <>
       <section className="hero align-items-stretch">
@@ -12,14 +13,13 @@ export default function AboutMe () {
           <h5 className="text-light-emphasis">Desarrollador Web Full Stack. De Córdoba, Argentina. <br /> Apasionado por los desafios</h5>
         
           <a href="https://www.linkedin.com/in/salvador-cahuana-bba962164/" target="_blank">
-              <h6><span class="badge color-badge">Disponible para trabajar</span></h6>
+            <h6><span class="badge color-badge">Disponible para trabajar</span></h6>
           </a>
           <div className="enlaces-contact">
-            <button onClick={() => window.open('/CV', '_blank')}>
+            <a href= "../../pdf.html" target="_blank">
               <i class="bi bi-file-earmark-fill"></i>
               Descargar CV
-            </button>
-            
+            </a>
             <a href="https://www.linkedin.com/in/salvador-cahuana-bba962164/" target="_blank">
               <i class="bi bi-linkedin"></i>
               LinkedIn
