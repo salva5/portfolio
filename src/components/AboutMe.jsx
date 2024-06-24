@@ -1,6 +1,7 @@
 import salva from "../assets/yo.jpg";
 import heroinferior from "../assets/CV-SalvadorCahuana.pdf";
 
+
 export default function AboutMe () {
   return(
     <>
@@ -15,7 +16,7 @@ export default function AboutMe () {
               <h6><span class="badge color-badge">Disponible para trabajar</span></h6>
             </a>
           <div className="enlaces-contact">
-            <a href={heroinferior} download>
+            <a href="/CV" target="_blank">
             <i class="bi bi-file-earmark-fill"></i>
               Descargar CV
             </a>

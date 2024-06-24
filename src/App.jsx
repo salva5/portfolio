@@ -1,20 +1,16 @@
 import "./App.css";
 
-import Nav from "./components/Nav";
-import AboutMe from "./components/AboutMe";
-import Tecnologias from "./components/Tecnologias";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Pages from "./components/Pages";
+import Pdf from "./components/Pdf";
+import { Routes, Route } from "react-router-dom";
+
 function App() {
   return (
     <>
-      <Nav />
-      <AboutMe />
-      <Tecnologias/>
-      <Projects/>
-      <Contact/>
-      <Footer/>
+      <Routes>
+        <Route path="/" element={<Pages/>}/>
+        <Route path="/CV" element={<Pdf/>}/>
+      </Routes>
     </>
   );
 }
