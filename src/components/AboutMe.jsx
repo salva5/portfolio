@@ -19,7 +19,7 @@ export default function AboutMe () {
           <div className="enlaces-contact">
             <button onClick={() => navigate("/CV")}>
               <i class="bi bi-file-earmark-fill"></i>
-              Descargar CV
+              Ver CV
             </button>
             <a href="https://www.linkedin.com/in/salvador-cahuana-bba962164/" target="_blank">
               <i class="bi bi-linkedin"></i>
