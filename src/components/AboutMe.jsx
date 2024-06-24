@@ -17,7 +17,7 @@ export default function AboutMe () {
               <h6><span class="badge color-badge">Disponible para trabajar</span></h6>
           </a>
           <div className="enlaces-contact">
-            <button onClick={() => navigate("/CV",{target: "-blank"})}>
+            <button onClick={() => navigate("/CV",{target: "_blank"})}>
               <i class="bi bi-file-earmark-fill"></i>
               Descargar CV
             </button>
