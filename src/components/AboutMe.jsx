@@ -1,5 +1,4 @@
 import salva from "../assets/yo.jpg";
-import heroinferior from "../assets/CV-SalvadorCahuana.pdf";
 
 
 export default function AboutMe () {
@@ -16,7 +15,7 @@ export default function AboutMe () {
               <h6><span class="badge color-badge">Disponible para trabajar</span></h6>
             </a>
           <div className="enlaces-contact">
-            <a href="/CV" target="_blank">
+            <a href="https://portfolio-h54lqc4qr-salvadors-projects-7b4c0e2a.vercel.app/CV" target="_blank">
             <i class="bi bi-file-earmark-fill"></i>
               Descargar CV
             </a>
