@@ -46,17 +46,6 @@
   text-decoration: none;
   color: white;
 }
-.enlaces-contact button {
-  padding: 6px;
-  border-radius: 1rem;
-  margin-right: 5px;
-}
-.enlaces-contact button:hover {
-  background-color: white;
-  outline: solid black;
-  color: rgb(0, 102, 255);
-  transition: all 0.2s ease-in;
-}
 .enlaces-contact a:hover {
   background-color: white;
   outline: solid black;

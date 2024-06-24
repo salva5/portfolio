@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <Routes>
-        <Route exact path="/" element={<Pages/>}/>
-        <Route exact path="/CV" element={<Pdf/>}/>
+        <Route path="/" exact element={<Pages/>}/>
+        <Route path="/CV" element={<Pdf/>}/>
       </Routes>
     </>
   );

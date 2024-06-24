@@ -1,9 +1,8 @@
-import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import salva from "../assets/yo.jpg";
 
 
 export default function AboutMe () {
-  const navigate = useNavigate()
   return(
     <>
       <section className="hero align-items-stretch">
@@ -17,10 +16,10 @@ export default function AboutMe () {
             <h6><span class="badge color-badge">Disponible para trabajar</span></h6>
           </a>
           <div className="enlaces-contact">
-            <button onClick={() => navigate("/CV")}>
+            <Link to="CV" target="_blank">
               <i class="bi bi-file-earmark-fill"></i>
               Ver CV
-            </button>
+            </Link>
             <a href="https://www.linkedin.com/in/salvador-cahuana-bba962164/" target="_blank">
               <i class="bi bi-linkedin"></i>
               LinkedIn
