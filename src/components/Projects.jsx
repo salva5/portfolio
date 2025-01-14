@@ -37,7 +37,7 @@ export default function Projects () {
                     <a href="https://github.com/salva5/Nonflix" target="_blank" rel="noopener noreferrer">
                       <i class="bi bi-github"></i>
                     </a>
-                    <a href="https://nonflix-zeta.vercel.app" target="_blank" rel="noopener noreferrer">
+                    <a href="https://nonflix-kappa.vercel.app" target="_blank" rel="noopener noreferrer">
                       <i class="bi bi-laptop"></i>
                     </a>
                   </div>
