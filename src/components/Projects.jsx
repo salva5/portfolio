@@ -1,7 +1,7 @@
-import nonflix from "../assets/img-projects/nonflix10.png"
-import pokemon from "../assets/img-projects/pokemon0.png"
-import mokepon from "../assets/img-projects/mokepon2.png"
-import nextLevel from "../assets/img-projects/nextlevel0.png"
+import nonflix from "../assets/img-projects/nonflix1.png"
+import pokemon from "../assets/img-projects/pokemon1.png"
+import mokepon from "../assets/img-projects/mokepon1.png"
+import nextLevel from "../assets/img-projects/nextlevel1.png"
 
 export default function Projects () {
 
