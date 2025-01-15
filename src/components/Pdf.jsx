@@ -1,4 +1,4 @@
-import pdf from "../assets/CV-SalvadorCahuana.pdf"
+import pdf from "../assets/Salvador-Cahuana-CV.pdf"
 
 export default function Pdf () {
   return (
