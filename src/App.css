@@ -146,15 +146,14 @@ section {
 }
 .proyecto img{
   object-fit:cover;
-  height: 200px;
   width: 100%;
-  border-radius: 20px;
+  border-radius: 10px;
   display: block;
   transition: all 0.3s ease;
 }
 .proyecto:hover {
   background-color: black;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .proyecto:hover img{
   opacity: 0.2;
