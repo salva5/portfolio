@@ -12,7 +12,7 @@ export default function Contact() {
                   <button type="button">
                     
                     <i class="bi bi-envelope-check-fill"></i>
-                   <span>salvador.cahuana3@gmail.com</span> 
+                    <span>salvador.cahuana3@gmail.com</span> 
                   </button>
                 </a>
               </div>
